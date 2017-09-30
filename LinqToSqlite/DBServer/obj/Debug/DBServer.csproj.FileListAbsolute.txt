@@ -1,0 +1,15 @@
+C:\Users\56362\Documents\GitHub\CodeFirst\LinqToSqlite\DBServer\bin\Debug\DBServer.dll.config
+C:\Users\56362\Documents\GitHub\CodeFirst\LinqToSqlite\DBServer\bin\Debug\DBServer.dll
+C:\Users\56362\Documents\GitHub\CodeFirst\LinqToSqlite\DBServer\bin\Debug\DBServer.pdb
+C:\Users\56362\Documents\GitHub\CodeFirst\LinqToSqlite\DBServer\bin\Debug\EntityFramework.dll
+C:\Users\56362\Documents\GitHub\CodeFirst\LinqToSqlite\DBServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\56362\Documents\GitHub\CodeFirst\LinqToSqlite\DBServer\bin\Debug\System.Data.SQLite.dll
+C:\Users\56362\Documents\GitHub\CodeFirst\LinqToSqlite\DBServer\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\56362\Documents\GitHub\CodeFirst\LinqToSqlite\DBServer\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\56362\Documents\GitHub\CodeFirst\LinqToSqlite\DBServer\bin\Debug\EntityFramework.xml
+C:\Users\56362\Documents\GitHub\CodeFirst\LinqToSqlite\DBServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\56362\Documents\GitHub\CodeFirst\LinqToSqlite\DBServer\bin\Debug\System.Data.SQLite.xml
+C:\Users\56362\Documents\GitHub\CodeFirst\LinqToSqlite\DBServer\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\56362\Documents\GitHub\CodeFirst\LinqToSqlite\DBServer\obj\Debug\DBServer.dll
+C:\Users\56362\Documents\GitHub\CodeFirst\LinqToSqlite\DBServer\obj\Debug\DBServer.pdb
+C:\Users\56362\Documents\GitHub\CodeFirst\LinqToSqlite\DBServer\obj\Debug\DBServer.csprojResolveAssemblyReference.cache
